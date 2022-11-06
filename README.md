@@ -42,11 +42,19 @@
 ![active address](https://github.com/SabeloMkhwanzi/Data-Alchemist-Boot-Camp/blob/main/Reach%20-%20Active%20Address%20ETH%20vs%20FTH%202022-11-06.jpg)
 ![contract deployed](https://github.com/SabeloMkhwanzi/Data-Alchemist-Boot-Camp/blob/main/Reach%20-%20Contract%20Deployed%20Addresses%20ETH%20vs%20FTH%202022-11-06.jpg)
 
+- If we compare the number of transactions and active addresses, we can far see that last 30 days Fantom chain mass adoption is growing to the point that its reaches above 900k in transaction, moving close side with Ethereum, also well we can also see that active addresses is half of what Ethereum is. which shows us that Fantom is growth is scalable even in a bearish rang.
+
 ##### 2. Retention
 
 ![stickiness ratio ](https://github.com/SabeloMkhwanzi/Data-Alchemist-Boot-Camp/blob/main/Retention%20-%20Stickiness%20ratio%20ETH%20vs%20FTH%202022-11-06.jpg)
 ![new vs existing address](https://github.com/SabeloMkhwanzi/Data-Alchemist-Boot-Camp/blob/main/Retention%20-%20New%20vs%20Existing%20%20ETH%20vs%20FTH%202022-11-06.jpg)
 
+- Here we can see that stickiness ratio for Fantom looks good compare to Ethereum. But the new users vs existing we can see its not very clear for Fantom, as for Ethereum look really stable and receiving new user. This could be caused by the new upgrade to Ethereum.
+
 ##### 3. Revenue
 
 ![gas paid per user](https://github.com/SabeloMkhwanzi/Data-Alchemist-Boot-Camp/blob/main/Revenue%20-%20Gas%20per%20user%20%20ETH%20vs%20FTH%202022-11-06.jpg)
+
+To conclude our analysis we say that comparing Ethereum and Fantom helped learn and understand the nature of these chains. And get see the performances of these chains using covalent increment.
+
+Thank you Happy Data-Alchemist-Analysis
