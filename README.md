@@ -18,16 +18,18 @@
 ### My research analysis was follows: ETH/FTM
 
 1. Reach:
-   (1.1) Compare the number of transactions count Eth vs FTM
-   (1.2) Compare the number of active address Eth vs FTM
-   (1.3) Compare the number of contract deployed Eth vs FTM
+
+   - Compare the number of transactions count Eth vs FTM
+   - Compare the number of active address Eth vs FTM
+   - Comparing contract deployed Eth vs FTM
 
 2. Retention:
-   (1.1) Compare the stickiness ratio Eth vs FTM
-   (1.2) Comparing new vs existing address Eth vs FTM
-   (1.3) Comparing cohort retention Eth vs FTM
+
+   - Compare the stickiness ratio Eth vs FTM
+   - Comparing new vs existing address Eth vs FTM
+   - Comparing cohort retention Eth vs FTM
 
 3. Revenue:
-   (1.1) Compare token price over time Eth vs FTM
-   (1.2) Compare total gas spent Eth vs FTM
-   (1.3) Compare the number gas paid per user Eth vs FTM
+   - Compare token price over time Eth vs FTM
+   - Compare total gas spent Eth vs FTM
+   - Compare the number gas paid per user Eth vs FTM
