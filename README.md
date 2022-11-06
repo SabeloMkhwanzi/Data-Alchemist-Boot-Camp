@@ -55,6 +55,6 @@
 
 ![gas paid per user](https://github.com/SabeloMkhwanzi/Data-Alchemist-Boot-Camp/blob/main/Revenue%20-%20Gas%20per%20user%20%20ETH%20vs%20FTH%202022-11-06.jpg)
 
-To conclude our analysis we say that comparing Ethereum and Fantom helped learn and understand the nature of these chains. And get see the performances of these chains using covalent increment.
+-To conclude our analysis we say that comparing Ethereum and Fantom helped learn and understand the nature of these chains. And get see the performances of these chains using covalent increment.
 
-Thank you Happy Data-Alchemist-Analysis
+###### Thank you Happy Data-Alchemist-Analysis
