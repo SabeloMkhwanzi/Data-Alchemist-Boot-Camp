@@ -35,3 +35,12 @@
    - Compare the number gas paid per user Eth vs FTM
 
 #### In this Data-Alchemist I did take into consideration that Ethereum chain is older, establish than Fantom mainnet due to the fact that Fantom is fast, scalable platform for decentralized applications, easy to integrate existing dApps, and a suitable for building decentralized finance (DeFi) tools, which can primary attract more users and developers resulting in mass adoption for Fantom to grow - that what we want to measure here.
+
+##### 1. Reach
+![Reach]()
+
+##### 2. Retention
+![Retention]()
+
+##### 3. Revenue
+![Revenue]()
